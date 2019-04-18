@@ -1,6 +1,8 @@
 # slider_picker
 
-A new Flutter package to pick number in a slider way
+A new Flutter package to pick number in a slider way.
+
+![Preview](/preview/shot.mp4)
 
 ## Getting Started
 
