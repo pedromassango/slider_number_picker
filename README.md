@@ -1,8 +1,8 @@
-# slider_picker
+# Slider Number Picker
 
 A new Flutter package to pick number in a slider way.
 
-![Preview](/preview/shot.mp4)
+![Preview](/preview/shot.gif)
 
 ## Getting Started
 
